@@ -2,40 +2,35 @@
 e.g. 153
 1^3+5^3+3^3 = 153 */
 
-#include<conio.h>
-#include<stdio.h>
+#include <conio.h>
+#include <stdio.h>
 
 void main()
 {
-    int x,i,s=0,y;
+    int x, i, s = 0, y;
     printf("Enetr a number: ");
-    scanf("%d",&y);
+    scanf("%d", &y);
 
-    x=y;
+    x = y;
 
-    while (x>0)
+    while (x > 0)
     {
-        i= x%10;
+        i = x % 10;
 
-       // printf("\n << %d",i);
+        // printf("\n << %d",i);
 
-        s= s+i*i*i;
-       // printf("\n %d \n",s);
+        s = s + i * i * i;
+        // printf("\n %d \n",s);
 
-        x=x/10;
-
+        x = x / 10;
     }
 
-    if (y==s)
+    if (y == s)
     {
-        printf("%d number is armstrong",y);
+        printf("%d number is armstrong", y);
     }
     else
     {
-        printf("%d number is not armstrong",y);
+        printf("%d number is not armstrong", y);
     }
-    
-    
-
-
 }

@@ -3,8 +3,8 @@ even: which number is fully divisible by 2
 odd: which number is not fully divisible by 2
 */
 
-#include<stdio.h>
-#include<conio.h>
+#include <stdio.h>
+#include <conio.h>
 
 void main()
 {
@@ -16,10 +16,9 @@ void main()
     if (num % 2 == 0)
     {
         printf("%d is even number", num);
-    } else
+    }
+    else
     {
         printf("%d is odd number", num);
     }
-    
-    
 }

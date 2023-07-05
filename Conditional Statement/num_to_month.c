@@ -8,13 +8,13 @@ month 6: June
 month 7: July
 month 8: August
 month 9: September
-month 10: Octuber 
+month 10: Octuber
 month 11: November
 month 12: December
 */
 
-#include<stdio.h>
-#include<conio.h>
+#include <stdio.h>
+#include <conio.h>
 
 void main()
 {
@@ -26,54 +26,53 @@ void main()
     if (month == 1)
     {
         printf("%d month is January", month);
-    } else if (month == 2)
+    }
+    else if (month == 2)
     {
         printf("%d month is February", month);
-    } else if (month == 3)
+    }
+    else if (month == 3)
     {
         printf("%d month is March", month);
-    } else if (month == 4)
+    }
+    else if (month == 4)
     {
         printf("%d month is April", month);
-    } else if (month == 5)
+    }
+    else if (month == 5)
     {
         printf("%d month is May", month);
-    } else if (month == 6)
+    }
+    else if (month == 6)
     {
         printf("%d month is June", month);
-    } else if (month == 7)
+    }
+    else if (month == 7)
     {
         printf("%d month is July", month);
-    } else if (month == 8)
+    }
+    else if (month == 8)
     {
         printf("%d month is August", month);
-    } else if (month == 9)
+    }
+    else if (month == 9)
     {
         printf("%d month is September", month);
-    } else if (month == 10)
+    }
+    else if (month == 10)
     {
         printf("%d month is Octuber", month);
-    } else if (month == 11)
+    }
+    else if (month == 11)
     {
         printf("%d month is November", month);
-    } else if (month == 12)
+    }
+    else if (month == 12)
     {
         printf("%d month is December", month);
-    } else
+    }
+    else
     {
         printf("%d month is Invalid", month);
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 }

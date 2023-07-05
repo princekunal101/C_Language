@@ -1,7 +1,7 @@
 /*Writting a table with stander style*/
 
-#include<stdio.h>
-#include<conio.h>
+#include <stdio.h>
+#include <conio.h>
 
 void main()
 {
@@ -10,7 +10,7 @@ void main()
     printf("Enter a number for writting table: ");
     scanf("%d", &n);
 
-    for ( i = 1; i <= 10; i++)
+    for (i = 1; i <= 10; i++)
     {
         t = n * i;
 
@@ -18,5 +18,4 @@ void main()
 
         t = 0;
     }
-    
 }

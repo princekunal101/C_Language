@@ -1,5 +1,5 @@
-#include<conio.h>
-#include<stdio.h>
+#include <conio.h>
+#include <stdio.h>
 
 void main()
 {
@@ -10,5 +10,4 @@ void main()
     sum = a + b;
 
     printf("Sum of two number is %d", sum);
-
 }

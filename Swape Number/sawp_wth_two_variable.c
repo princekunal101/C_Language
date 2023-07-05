@@ -1,9 +1,9 @@
 /*Swapping of two digit number with two variable:
-4 5: 5 4 
+4 5: 5 4
 */
 
-#include<stdio.h>
-#include<conio.h>
+#include <stdio.h>
+#include <conio.h>
 
 void main()
 {
@@ -12,9 +12,9 @@ void main()
     printf("Enter two number: ");
     scanf("%d %d", &a, &b);
 
-    printf("Before the swapping of number a and b are: %d %d", a,b);
+    printf("Before the swapping of number a and b are: %d %d", a, b);
 
-    //swapping formula with addition - subtraction
+    // swapping formula with addition - subtraction
     /*
     8:a = 3:a + 5:b
     5:b = 8:a - 5:b
@@ -26,9 +26,7 @@ void main()
     a = a - b;
 
     // you can also use multiplicantion and division method
-    //Replace (+ : *) and (- : /) 
+    // Replace (+ : *) and (- : /)
 
     printf("\nAfter the swapping of number a nad b are: %d %d", a, b);
-
-
 }

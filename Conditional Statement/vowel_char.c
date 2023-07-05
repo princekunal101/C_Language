@@ -2,8 +2,8 @@
 vowel: a,e,i,o,u
 */
 
-#include<stdio.h>
-#include<conio.h>
+#include <stdio.h>
+#include <conio.h>
 
 void main()
 {
@@ -15,26 +15,25 @@ void main()
     if (a == 'a')
     {
         printf("%c is vowel", a);
-    } else if (a == 'e')
+    }
+    else if (a == 'e')
     {
         printf("%c is vowel", a);
-    } else if (a == 'i')
+    }
+    else if (a == 'i')
     {
         printf("%c is vowel", a);
-    } else if (a == 'o')
+    }
+    else if (a == 'o')
     {
         printf("%c is vowel", a);
-    } else if (a == 'u')
+    }
+    else if (a == 'u')
     {
         printf("%c is vowel", a);
-    } else
+    }
+    else
     {
         printf("%c is consonent", a);
     }
-    
-    
-    
-    
-    
-    
 }

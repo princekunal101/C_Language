@@ -1,7 +1,7 @@
 /*check given year is leap year or not*/
 
-#include<stdio.h>
-#include<conio.h>
+#include <stdio.h>
+#include <conio.h>
 
 void main()
 {
@@ -13,10 +13,9 @@ void main()
     if (year % 4 == 0)
     {
         printf("%d year is Leap year", year);
-    } else
+    }
+    else
     {
         printf("%d year is not Leap year", year);
     }
-    
-    
 }

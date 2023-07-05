@@ -1,7 +1,7 @@
 /*Check number is odd or even*/
 
-#include<stdio.h>
-#include<conio.h>
+#include <stdio.h>
+#include <conio.h>
 
 void main()
 {
@@ -10,15 +10,12 @@ void main()
     printf("Enter a number: ");
     scanf("%d", &a);
 
-
-    if (a%2 == 0)
+    if (a % 2 == 0)
     {
-        printf("%d is even number",a);
+        printf("%d is even number", a);
     }
     else
     {
-        printf("%d is odd number",a);
+        printf("%d is odd number", a);
     }
-    
-    
 }

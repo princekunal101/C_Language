@@ -6,28 +6,25 @@
 12345
 */
 
-#include<stdio.h>
-#include<conio.h>
+#include <stdio.h>
+#include <conio.h>
 
 void main()
 {
-    int i, j, k, count= 5;
+    int i, j, k, count = 5;
 
-    for ( i = 1; i <= count; i++)
+    for (i = 1; i <= count; i++)
     {
-        for ( k = 1; k <= count-i; k++)
+        for (k = 1; k <= count - i; k++)
         {
             printf(" ");
         }
 
-        for ( j = 1; j <= i; j++)
+        for (j = 1; j <= i; j++)
         {
-            printf("%d",j);
+            printf("%d", j);
         }
 
         printf("\n");
-        
-        
     }
-    
 }

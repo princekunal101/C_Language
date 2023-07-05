@@ -1,7 +1,7 @@
 /*Simple Table writing with any number */
 
-#include<stdio.h>
-#include<conio.h>
+#include <stdio.h>
+#include <conio.h>
 
 void main()
 {
@@ -17,5 +17,4 @@ void main()
         printf("\ntable: %d", t);
         t = 0;
     }
-    
 }

@@ -1,9 +1,10 @@
 /*To check given number is positive or negative*/
 
-#include<stdio.h>
-#include<conio.h>
+#include <stdio.h>
+#include <conio.h>
 
-void main(){
+void main()
+{
     int num;
 
     printf("Enter a number: ");
@@ -12,11 +13,9 @@ void main(){
     if (num >= 0)
     {
         printf("%d is Positive number", num);
-    }else
+    }
+    else
     {
         printf("%d is Negative number", num);
     }
-    
-    
-
 }
