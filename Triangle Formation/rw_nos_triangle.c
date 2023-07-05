@@ -1,3 +1,11 @@
+/*To print a right angle triangle with same digit in a row:
+1
+22
+333
+4444
+55555
+*/
+
 #include<stdio.h>
 #include<conio.h>
 

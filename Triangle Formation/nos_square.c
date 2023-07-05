@@ -1,3 +1,10 @@
+/*To print a square with accending number:
+1234
+1234
+1234
+1234
+*/
+
 #include<stdio.h>
 #include<conio.h>
 

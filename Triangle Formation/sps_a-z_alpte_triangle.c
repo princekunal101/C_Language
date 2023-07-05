@@ -1,3 +1,12 @@
+/*To print a mirror of right angle triangle:
+    A
+   AB
+  ABC
+ ABCD
+ABCDE
+
+*/
+
 #include<stdio.h>
 #include<conio.h>
 

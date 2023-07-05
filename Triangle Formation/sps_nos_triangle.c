@@ -1,3 +1,11 @@
+/*To print a mirror of right angle triangle with digit:
+    1
+   12
+  123
+ 1234
+12345
+*/
+
 #include<stdio.h>
 #include<conio.h>
 

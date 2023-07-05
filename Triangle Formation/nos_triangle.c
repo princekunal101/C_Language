@@ -1,3 +1,12 @@
+/*To print a right angle triangle with 
+accending order of number:
+1
+12
+123
+1234
+12345
+*/
+
 #include<stdio.h>
 #include<conio.h>
 

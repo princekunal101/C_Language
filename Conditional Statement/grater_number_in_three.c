@@ -1,3 +1,7 @@
+/*Gratest number between three numbers
+e.g. 45 55 48
+output: 55*/
+
 #include<stdio.h>
 #include<conio.h>
 

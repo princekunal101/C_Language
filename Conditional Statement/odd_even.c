@@ -1,3 +1,5 @@
+/*Check number is odd or even*/
+
 #include<stdio.h>
 #include<conio.h>
 

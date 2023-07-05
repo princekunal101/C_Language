@@ -1,3 +1,13 @@
+/*To print a acute angle triangle with strc sign:
+
+    *
+   ***
+  *****
+ *******
+*********
+
+*/
+
 #include<stdio.h>
 #include<conio.h>
 

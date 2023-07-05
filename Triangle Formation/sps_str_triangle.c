@@ -1,3 +1,15 @@
+/*To print a mirror of right angle triangle with strc:
+
+      *
+     **
+    ***
+   ****
+  *****
+ ******
+*******
+
+*/
+
 #include<stdio.h>
 #include<conio.h>
 

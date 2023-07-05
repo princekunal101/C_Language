@@ -1,3 +1,7 @@
+/*Graterset number between two numbers
+e.g. 5 >3
+*/
+
 #include<conio.h>
 #include<stdio.h>
 

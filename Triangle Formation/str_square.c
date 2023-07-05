@@ -1,3 +1,13 @@
+/*To print a square with strc sign:
+
+*****
+*****
+*****
+*****
+*****
+
+*/
+
 #include<stdio.h>
 #include<conio.h>
 

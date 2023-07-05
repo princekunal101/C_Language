@@ -1,9 +1,9 @@
-/*To print a square with same row digit:
+/*To print a triangle with reverse value:
+5
+44
+333
+2222
 11111
-22222
-33333
-44444
-55555
 */
 
 #include<stdio.h>
@@ -11,15 +11,14 @@
 
 void main()
 {
-    int i,j;
+    int i,j,count=5;
 
-    for ( i = 1; i <= 5; i++)
+    for ( i = count; i >= 1; i--)
     {
-        for ( j = 1; j <= 5; j++)
+        for ( j = count; j >= i; j--)
         {
             printf("%d",i);
         }
-
         printf("\n");
         
     }

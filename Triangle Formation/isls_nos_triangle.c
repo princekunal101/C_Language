@@ -1,3 +1,12 @@
+/*To print a acute angle triangle with number:
+    1
+   123
+  12345
+ 1234567
+123456789
+*/
+
+
 #include<stdio.h>
 #include<conio.h>
 

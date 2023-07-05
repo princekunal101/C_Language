@@ -1,3 +1,15 @@
+/*To print a right angle triangle with strc:
+
+*
+**
+***
+****
+*****
+******
+*******
+
+*/
+
 #include<stdio.h>
 #include<conio.h>
 

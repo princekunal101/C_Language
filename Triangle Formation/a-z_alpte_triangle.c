@@ -1,3 +1,11 @@
+/*To print a triangle with accending alphabate:
+A
+AB
+ABC
+ABCD
+ABCDE
+*/
+
 #include<stdio.h>
 #include<conio.h>
 
