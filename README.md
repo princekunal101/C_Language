@@ -12,6 +12,9 @@
  - Major parts of popular *Operating Systems* like **Windows, UNIX, Linux** and **Android** are written in C. This because even today when it comes to performance *(speed of execution)* nothing beats C.
  ## Execution of C Program
  ### Step-by-Step Execution of C Program in Turbo C/C++
+
+<img align="middle" src="https://raw.githubusercontent.com/princekunal101/C_Language/main/screenshots/msdos-turbo-logo.png" width="100"/>
+
  **Step 1:**    Open the Turbo screen and then write the program on Turbo C/C++ screen.
 
  **Step 2:** Save this Program after pressing F2 key.
@@ -26,13 +29,17 @@
 
  ### Step-by-Step Execution of C Program in VS (Visual Studio) Code
 
+<img align="middle" src="https://raw.githubusercontent.com/princekunal101/C_Language/main/screenshots/vs-code-logo.png" width="100"/>
 
  **Step 1:** Open the vs code screen and create a folder.
 
  **Step 2:** Create a file on that folder with extention name **.c** and write the program.
 
+ <img align="middle" src="https://raw.githubusercontent.com/princekunal101/C_Language/main/screenshots/vs-code-screen-c-file.png"/>
+
  **Step 3:** Errors already occurs on screen with red underline.
 
  **Step 4:** Right click on Screen and click on Run Code or *(Alt + Ctrl + N)*  
+ <img align="middle" src=""/>
 
  **Step 5:** To operate with Input operation on program go down to *Terminal* and come back on code Screen. 
