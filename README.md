@@ -27,7 +27,6 @@
 
  ### Step-by-Step Execution of C Program in VS (Visual Studio) Code
 
- <span style="display:block; width:80px; height:80px; text-align: center;">![visual studio code](https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png) </span>
 
  **Step 1:** Open the vs code screen and create a folder.
 
