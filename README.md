@@ -16,6 +16,8 @@
 <img align="middle" src="https://raw.githubusercontent.com/princekunal101/C_Language/main/screenshots/msdos-turbo-logo.png" width="100"/>
 
  **Step 1:**    Open the Turbo screen and then write the program on Turbo C/C++ screen.
+ 
+ <img align="middle" src="https://raw.githubusercontent.com/princekunal101/C_Language/main/screenshots/turbo-c-open-screen.jpg"/>
 
  **Step 2:** Save this Program after pressing F2 key.
 
@@ -23,9 +25,13 @@
 
  **Step 4:** If any error occurs then remove these errors.
 
- **Step 5:** Run the program (press Ctrl + F9).
+ **Step 5:** If you code run in Turbo C then you must be call *getch()* function in the last of *main() function*.
 
- **Step 6:** To Show the output/console screen (press Alt + F5).
+ <img align="middle" src="https://raw.githubusercontent.com/princekunal101/C_Language/main/screenshots/turbo-c-code.jpg"/>
+
+ **Step 6:** Run the program (press Ctrl + F9).
+
+ **Step 7:** To Show the output/console screen (press Alt + F5).
 
  ### Step-by-Step Execution of C Program in VS (Visual Studio) Code
 
