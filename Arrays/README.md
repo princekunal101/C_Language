@@ -1,0 +1,3 @@
+## Binary Search
+
+A Binary search is a technique used to search an element in case sorted array. Binary search works only on a sorted array. Number of titration decreases in the binary search. The logic behind the binary search is that the value of the search the highest and the lowest value is added and *devided by **2** .* The mid value is compared with the key if mid is *equal to* key then we get output directly else if the key is *gratter then* the mid then **(mid + 1)** becomes the lowest value and process is *repeated* on the sorted value. Else if the key value is *less then* the mid value **(mid - 1)** becomes the highest value and the process is *repeated* on the sorted array.
