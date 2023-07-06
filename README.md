@@ -1,9 +1,8 @@
 # C-Programming
 #### A programs is nothing but a set of instructions. The program behaves as per the instruction that we give in it.
 
+<img align="middle" src="https://raw.githubusercontent.com/princekunal101/C_Language/main/screenshots/c-language-logo.png" width="100" height="110" />
 
-<span style="display:block;  text-align: center;">![C-Progaramming](https://raw.githubusercontent.com/princekunal101/C_Language/main/screenshots/c-language-logo.png?w=100&h=100)
-</span>
 
  C is a programming language at *AT* & *T's (American Telephone and Telegraphy) Bell Laboratories* of *USA* in *1972*. It was designed and written by a man named **Dennis Ritchie**. C can handle *low-level* activities. C is powerful and flexible language. It is the very popular language dispire being old. 
 
