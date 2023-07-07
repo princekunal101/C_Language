@@ -12,22 +12,23 @@ void main()
         scanf("%d", &a[i]);
     }
 
-    for (i = 0; i < 10; i++)
+    for (i = 0; i < 10 - 1; i++)
     {
         small = i;
 
-        for (j = i + 1; j < 10; i++)
+        for (j = i + 1; j < 10; j++)
         {
             if (a[small] > a[j])
             {
                 small = j;
-            } else
-            if (small != i)
-            {
-                temp = a[i];
-                a[i] = a[small];
-                a[small] = temp;
             }
+        }
+
+        if (small != i)
+        {
+            temp = a[i];
+            a[i] = a[small];
+            a[small] = temp;
         }
     }
 
