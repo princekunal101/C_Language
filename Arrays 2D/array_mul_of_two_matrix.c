@@ -9,6 +9,26 @@ Multiply two matries i,e,
 |(2*5)+(6*2)+(4*4)    (2*1)+(6*6)+(4*0)    (2*3)+(6*4)+(4*5)|
 |(1*5)+(3*2)+(4*4)    (1*1)+(3*6)+(4*0)    (1*3)+(3*4)+(4*5)|
 
+Output:
+Enter a first Matrix:
+Enter a[11] position number:
+Enter a[12] position number:
+  "     "       "       "
+  "     "       "       "
+  "     "       "       "
+Enter a[33] position number:
+Enter a second Matrix:
+Enter b[11] postion number:
+Enter b[12] postion number:
+  "     "       "       "
+  "     "       "       "
+  "     "       "       "
+Enter b[33] postion number:
+Processing...
+Your Result is here:
+1   1   1
+2   2   2
+3   3   3
 
 */
 
