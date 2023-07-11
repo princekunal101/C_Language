@@ -1,5 +1,10 @@
 /*
 Change matrix into Transpose of Matrix
+i,e,
+|8  5  4|       |8  9|
+|9  2  3|       |5  2|
+                |4  3|
+                
 */
 
 #include <stdio.h>
