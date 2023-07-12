@@ -1,0 +1,2 @@
+## Recursion
+Recursion is self contain sub program is calls itself *again-and-again* until condition will be satisfy it use to construct of create with the user defined loop. It is also known as **Recursive function**.
