@@ -13,7 +13,7 @@
 - Parameter List
 
 ##### Types of Prototype
-- Having Return type and Having Parameters
-- Having Return type But no parameters
-- With Parameter But not Returning value
-- Without Prametre and Without Returning Value 
+- [Having Return type and Having Parameters](https://github.com/princekunal101/C_Language/blob/main/Functions%20in%20C/wth_para_wth_return.c)
+- [Having Return type But no parameters](https://github.com/princekunal101/C_Language/blob/main/Functions%20in%20C/wtht_para_wth_return.c)
+- [With Parameter But not Returning value](https://github.com/princekunal101/C_Language/blob/main/Functions%20in%20C/wth_para_wtht_return.c)
+- [Without Prametre and Without Returning Value](https://github.com/princekunal101/C_Language/blob/main/Functions%20in%20C/wtht_para_wtht_return.c) 
