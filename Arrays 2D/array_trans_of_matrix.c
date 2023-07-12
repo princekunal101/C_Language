@@ -4,7 +4,7 @@ i,e,
 |8  5  4|       |8  9|
 |9  2  3|       |5  2|
                 |4  3|
-                
+
 */
 
 #include <stdio.h>
@@ -18,7 +18,7 @@ void main()
     {
         for (j = 0; j < count; j++)
         {
-            printf("Enter a[%d%d] position of number: ", i+1, j+1);
+            printf("Enter a[%d%d] position of number: ", i + 1, j + 1);
             scanf("%d", &a[i][j]);
         }
     }
