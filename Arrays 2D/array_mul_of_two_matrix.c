@@ -71,7 +71,7 @@ void main()
 
             for (k = 0; k < 3; k++)
             {
-                c[i][j] = c[i][j] + a[i][k] * b[k][i];
+                c[i][j] = c[i][j] + a[i][k] * b[k][j];
             }
         }
     }
